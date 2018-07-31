@@ -8,10 +8,10 @@ return phrases;
 }
 
 function johnLennonFacts(facts) {
-  var Newfacts = [];
+  var funfacts = [];
   var i = 0
   while (i < facts.length) {
-    funFacts.push (facts[i] + "!!!");
+    funFacts.push(facts[i] + "!!!");
     i++;
   }
   return funFacts;
