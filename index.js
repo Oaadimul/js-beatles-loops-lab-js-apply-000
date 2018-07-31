@@ -8,7 +8,7 @@ return phrases;
 }
 
 function johnLennonFacts(facts) {
-  var funfacts = [];
+  var Newfacts = [];
   var i = 0
   while (i < facts.length) {
     funFacts.push (facts[i] + "!!!");
